@@ -21,3 +21,5 @@ TestResults/
 # OS
 .DS_Store
 Thumbs.db
+# Local development settings (secrets)
+**/appsettings.Development.json
