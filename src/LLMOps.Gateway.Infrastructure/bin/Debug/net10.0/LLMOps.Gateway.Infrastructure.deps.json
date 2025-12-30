@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "LLMOps.Gateway.Infrastructure/1.0.0": {
+        "dependencies": {
+          "LLMOps.Gateway.Contracts": "1.0.0",
+          "LLMOps.Gateway.Core": "1.0.0"
+        },
+        "runtime": {
+          "LLMOps.Gateway.Infrastructure.dll": {}
+        }
+      },
+      "LLMOps.Gateway.Contracts/1.0.0": {
+        "runtime": {
+          "LLMOps.Gateway.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "LLMOps.Gateway.Core/1.0.0": {
+        "runtime": {
+          "LLMOps.Gateway.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LLMOps.Gateway.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LLMOps.Gateway.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LLMOps.Gateway.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

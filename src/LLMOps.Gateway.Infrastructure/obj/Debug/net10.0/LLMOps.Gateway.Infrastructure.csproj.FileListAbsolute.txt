@@ -1,0 +1,17 @@
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\bin\Debug\net10.0\LLMOps.Gateway.Infrastructure.deps.json
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\bin\Debug\net10.0\LLMOps.Gateway.Infrastructure.dll
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\bin\Debug\net10.0\LLMOps.Gateway.Infrastructure.pdb
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\bin\Debug\net10.0\LLMOps.Gateway.Contracts.dll
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\bin\Debug\net10.0\LLMOps.Gateway.Core.dll
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\bin\Debug\net10.0\LLMOps.Gateway.Core.pdb
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\bin\Debug\net10.0\LLMOps.Gateway.Contracts.pdb
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\obj\Debug\net10.0\LLMOps.Gateway.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\obj\Debug\net10.0\LLMOps.Gateway.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\obj\Debug\net10.0\LLMOps.Gateway.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\obj\Debug\net10.0\LLMOps.Gateway.Infrastructure.AssemblyInfo.cs
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\obj\Debug\net10.0\LLMOps.Gateway.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\obj\Debug\net10.0\LLMOps.G.ED289E3E.Up2Date
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\obj\Debug\net10.0\LLMOps.Gateway.Infrastructure.dll
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\obj\Debug\net10.0\refint\LLMOps.Gateway.Infrastructure.dll
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\obj\Debug\net10.0\LLMOps.Gateway.Infrastructure.pdb
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Infrastructure\obj\Debug\net10.0\ref\LLMOps.Gateway.Infrastructure.dll

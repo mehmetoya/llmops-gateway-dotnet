@@ -1,0 +1,11 @@
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\bin\Debug\net10.0\LLMOps.Gateway.Core.deps.json
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\bin\Debug\net10.0\LLMOps.Gateway.Core.dll
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\bin\Debug\net10.0\LLMOps.Gateway.Core.pdb
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\obj\Debug\net10.0\LLMOps.Gateway.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\obj\Debug\net10.0\LLMOps.Gateway.Core.AssemblyInfoInputs.cache
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\obj\Debug\net10.0\LLMOps.Gateway.Core.AssemblyInfo.cs
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\obj\Debug\net10.0\LLMOps.Gateway.Core.csproj.CoreCompileInputs.cache
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\obj\Debug\net10.0\LLMOps.Gateway.Core.dll
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\obj\Debug\net10.0\refint\LLMOps.Gateway.Core.dll
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\obj\Debug\net10.0\LLMOps.Gateway.Core.pdb
+C:\Users\mehmetoya\source\repos\llmops-gateway-dotnet\src\LLMOps.Gateway.Core\obj\Debug\net10.0\ref\LLMOps.Gateway.Core.dll
