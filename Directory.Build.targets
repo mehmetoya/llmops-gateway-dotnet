@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <!-- Release buildlerde daha sıkı -->
+    <NoWarn Condition="'$(Configuration)' == 'Release'">$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(MSBuildProjectName)' == 'LLMOps.Gateway.Tests'">
+    <!-- Test projelerinde dokümantasyon zorunlu olmasın -->
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+  </PropertyGroup>
+</Project>
