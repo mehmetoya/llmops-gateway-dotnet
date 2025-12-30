@@ -1,9 +1,8 @@
 {
   "settings": {
     "documentationRules": {
-      "companyName": "",
-      "copyrightText": "",
       "xmlHeader": false,
+      "companyName": "",
       "fileNamingConvention": "stylecop"
     }
   }

@@ -38,3 +38,8 @@ dotnet_diagnostic.CA2007.severity = suggestion
 [tests/**/*.cs]
 dotnet_diagnostic.CA1707.severity = none
 dotnet_diagnostic.IDE0058.severity = none
+# Disable overly strict StyleCop rules (developer-friendly)
+dotnet_diagnostic.SA1633.severity = none   # file header required
+dotnet_diagnostic.SA1600.severity = none   # XML docs required
+dotnet_diagnostic.SA1101.severity = none   # require this. prefix
+

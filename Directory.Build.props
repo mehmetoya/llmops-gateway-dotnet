@@ -7,21 +7,30 @@
     <ImplicitUsings>enable</ImplicitUsings>
 
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <WarningsAsErrors>$(WarningsAsErrors);CS8600;CS8602;CS8603;CS8604;CS8618</WarningsAsErrors>
+
+    <WarningsAsErrors>
+      $(WarningsAsErrors);
+      CS8600;CS8602;CS8603;CS8604;CS8618
+    </WarningsAsErrors>
+
+    <NoWarn>
+      $(NoWarn);
+      1591;
+      SA1200;SA1600;SA1633;SA1101
+    </NoWarn>
 
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
-    <NoWarn>$(NoWarn);1591</NoWarn>
+
     <Deterministic>true</Deterministic>
     <ContinuousIntegrationBuild Condition="'$(GITHUB_ACTIONS)' == 'true'">true</ContinuousIntegrationBuild>
   </PropertyGroup>
 
-<ItemGroup>
-  <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="9.0.0" PrivateAssets="all" />
-</ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeAnalysis.NetAnalyzers" Version="9.0.0" PrivateAssets="all" />
+  </ItemGroup>
 
-<ItemGroup Condition="'$(EnableStyleCop)' == 'true'">
-  <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.556" PrivateAssets="all" />
-  <AdditionalFiles Include="$(MSBuildThisFileDirectory)stylecop.json" />
-</ItemGroup>
-
+  <ItemGroup Condition="'$(EnableStyleCop)' == 'true'">
+    <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.556" PrivateAssets="all" />
+    <AdditionalFiles Include="$(MSBuildThisFileDirectory)stylecop.json" />
+  </ItemGroup>
 </Project>
